@@ -3,7 +3,7 @@
 The first part is the design of a tool to collect information and scan some found information, the second part includes the use of ready tools and getting to know how they work.
 It should be noted that the systems found in the said IP range have already been investigated to collect information.
 
-## The first part
+## Part I
 1. The designed tool should include the following:
 
  - Get a ping from a specific IP
